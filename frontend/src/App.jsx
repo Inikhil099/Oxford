@@ -83,7 +83,6 @@ function App() {
               className="w-[30%] mx-2 px-1 capitalize outline-none border-b-2 "
             />
           </div>
-
           <div className="my-3">
             <label htmlFor="mobno">Mobile No.</label>
             <input
